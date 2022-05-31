@@ -20,28 +20,53 @@ export default {
       }
     },
     {
-      name: 'buttonText',
-      title: 'ButtonText',
+      name: 'buttonText1',
+      title: 'ButtonText1',
       type: 'string'
     },
     {
-      name: 'product',
-      title: 'Product',
+      name: 'buttonText2',
+      title: 'ButtonText2',
       type: 'string'
     },
     {
-      name: 'desc',
-      title: 'Desc',
+      name: 'product1',
+      title: 'Product1',
       type: 'string'
     },
     {
-      name: 'smallText',
-      title: 'SmallText',
+      name: 'product2',
+      title: 'Product2',
       type: 'string'
     },
     {
-      name: 'midText',
-      title: 'MidText',
+      name: 'desc1',
+      title: 'Desc1',
+      type: 'string'
+    },
+    {
+      name: 'desc2',
+      title: 'Desc2',
+      type: 'string'
+    },
+    {
+      name: 'smallText1',
+      title: 'SmallText1',
+      type: 'string'
+    },
+    {
+      name: 'smallText2',
+      title: 'SmallText2',
+      type: 'string'
+    },
+    {
+      name: 'midText1',
+      title: 'MidText1',
+      type: 'string'
+    },
+    {
+      name: 'midText2',
+      title: 'MidText2',
       type: 'string'
     },
     {

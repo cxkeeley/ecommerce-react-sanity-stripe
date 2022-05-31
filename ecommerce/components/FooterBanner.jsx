@@ -9,11 +9,11 @@ const FooterBanner = ({
     largeText2,
     largeText3,
     saleTime,
-    smallText,
-    midText,
-    product,
-    buttonText,
-    desc,
+    smallText2,
+    midText2,
+    product2,
+    buttonText2,
+    desc2,
     imageFooter
   }
 }) => {
@@ -27,11 +27,11 @@ const FooterBanner = ({
           <p>{saleTime}</p>
         </div>
         <div className='right'>
-          <p>{smallText}</p>
-          <h3>{midText}</h3>
-          <p>{desc}</p>
-          <Link href={`/product/${product}`}>
-            <button type='button'>{buttonText}</button>
+          <p>{smallText2}</p>
+          <h3>{midText2}</h3>
+          <p>{desc2}</p>
+          <Link href={`/product/${product2}`}>
+            <button type='button'>{buttonText2}</button>
           </Link>
         </div>
 
